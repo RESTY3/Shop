@@ -963,27 +963,27 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Our Services Section
+# Our Solutions Section
 --------------------------------------------------------------*/
-.services {
+.solutions {
   padding: 60px 0;
 }
 
-.services .service-item {
+.solutions .service-item {
   padding: 40px;
   background: #fff;
   height: 100%;
   border-radius: 10px;
 }
 
-.services .service-item .icon {
+.solutions .service-item .icon {
   width: 48px;
   height: 48px;
   position: relative;
   margin-bottom: 50px;
 }
 
-.services .service-item .icon i {
+.solutions .service-item .icon i {
   color: var(--color-default);
   font-size: 56px;
   transition: ease-in-out 0.3s;
@@ -991,7 +991,7 @@ section {
   position: relative;
 }
 
-.services .service-item .icon:before {
+.solutions .service-item .icon:before {
   position: absolute;
   content: "";
   height: 100%;
@@ -1004,7 +1004,7 @@ section {
   transition: 0.3s;
 }
 
-.services .service-item h3 {
+.solutions .service-item h3 {
   color: var(--color-default);
   font-weight: 700;
   margin: 0 0 20px 0;
@@ -1016,23 +1016,23 @@ section {
   transition: 0.3s;
 }
 
-.services .service-item p {
+.solutions .service-item p {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
 }
 
-.services .service-item .readmore {
+.solutions .service-item .readmore {
   margin-top: 15px;
   display: inline-block;
   color: var(--color-primary);
 }
 
-.services .service-item:hover .icon:before {
+.solutions .service-item:hover .icon:before {
   background: #00b6a1;
 }
 
-.services .service-item:hover h3 {
+.solutions .service-item:hover h3 {
   border-color: var(--color-primary);
 }
 
