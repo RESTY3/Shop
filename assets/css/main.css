@@ -84,9 +84,10 @@ section {
 }
 
 .section-header p {
-  margin-bottom: 0;
+  margin-bottom: 30px;
   color: white;
-  font-weight: 600;
+  font-weight: 400;
+
 
 }
 .section-header h2:p {
