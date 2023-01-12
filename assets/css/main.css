@@ -63,7 +63,7 @@ section {
 }
 
 .section-header h2 {
-  font-size: 32px;
+  font-size: 30px;
   font-weight: 600;
   margin-bottom: 20px;
   padding-bottom: 20px;
@@ -84,12 +84,31 @@ section {
 }
 
 .section-header p {
+  font-weight: 400;
+  text-align: left;
   margin-bottom: 30px;
   color: white;
-  font-weight: 400;
-
-
 }
+
+.section-header ul {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    justify-content: left;
+ }
+ .section-header li{
+  text-align:left ;
+  
+
+ }
+ .section-header>ul>li{
+  white-space: nowrap;
+  padding: 10px 0 10px 28px;
+ }
+  
+
+
+
 .section-header h2:p {
   margin-bottom: 0;
   color: black;
@@ -1189,7 +1208,7 @@ section {
 }
 
 .portfolio .portfolio-wrap img {
-  height:100%;
+  height: 70%;
   transition: 0.3s;
   position: relative;
   z-index: 1;
@@ -1404,7 +1423,7 @@ section {
   text-align: center;
   background: #fff;
   border-radius: 10px;
-  padding: 15px;
+  padding:15px;
   overflow: hidden;
   box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.1);
 }
