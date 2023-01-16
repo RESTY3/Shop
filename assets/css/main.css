@@ -58,11 +58,22 @@ section {
 }
 
 .section-header {
-  text-align: center;
+  
   padding-bottom: 60px;
 }
 
+
 .section-header h2 {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+}
+
+.section-header h3{
+  text-align: left;
   font-size: 30px;
   font-weight: 600;
   margin-bottom: 20px;
