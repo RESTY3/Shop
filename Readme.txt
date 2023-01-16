@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Impact
-Template URL: https://bootstrapmade.com/impact-bootstrap-business-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: Shop
+Template URL: github.com/RESTY3/shop/
+Author: Resty
+License: https://quaver.com/license/
