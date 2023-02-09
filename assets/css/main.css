@@ -650,6 +650,12 @@ section {
   margin-bottom: 20px;
   font-family: var(--font-secondary);
 }
+.about img{
+  width:  90%;
+  /*transition: 0.3s;
+  /*position: relative;*/
+  /*z-index: 1;*/
+}
 
 .about .call-us {
   left: 10%;
